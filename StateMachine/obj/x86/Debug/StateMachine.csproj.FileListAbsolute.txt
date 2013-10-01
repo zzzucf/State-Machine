@@ -1,0 +1,5 @@
+\\gs.ucf.edu\gs\grad_docs\zi158172\my documents\visual studio 2010\Projects\StateMachine\StateMachine\bin\Debug\StateMachine.exe
+\\gs.ucf.edu\gs\grad_docs\zi158172\my documents\visual studio 2010\Projects\StateMachine\StateMachine\bin\Debug\StateMachine.pdb
+\\gs.ucf.edu\gs\grad_docs\zi158172\my documents\visual studio 2010\Projects\StateMachine\StateMachine\obj\x86\Debug\StateMachine.exe
+\\gs.ucf.edu\gs\grad_docs\zi158172\my documents\visual studio 2010\Projects\StateMachine\StateMachine\obj\x86\Debug\StateMachine.pdb
+\\gs.ucf.edu\gs\GRAD_DOCS\zi158172\My Documents\Visual Studio 2010\Projects\StateMachine\StateMachine\obj\x86\Debug\StateMachine.csprojResolveAssemblyReference.cache
